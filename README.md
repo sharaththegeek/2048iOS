@@ -7,5 +7,6 @@ It was done with the sole intention of showcasing of Swift skills and not for pu
 The game logic was done completely by the developer and no part of code is borrowed.
 
 Refer Documentation for more details. 
+Please refer the screnshots available in the screenshots folder to view the game design. A video of the gameplay is also available within the folder. 
 
 Forking is not recommended for this project but if any genuine developments are proposed, they will be welcomed. 
