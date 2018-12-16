@@ -13,4 +13,4 @@ Forking is not recommended for this project but if any genuine developments are 
 
 Image of the 2048 tile from the real game: 
 
-![alt text]https://github.com/sharaththegeek/2048iOS/blob/master/Screenshots/2048tile.PNG
+![alt text](https://github.com/sharaththegeek/2048iOS/blob/master/Screenshots/2048tile.PNG)
